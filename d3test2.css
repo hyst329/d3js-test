@@ -1,0 +1,26 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 38px;
+    color: #204896;
+}
+
+h2 {
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 22px;
+    color: #204896;
+}
+
+.arc text {
+    font: 10px sans-serif;
+    text-anchor: middle;
+}
+ 
+.arc path {
+    stroke: #fff;
+}
+  
+  

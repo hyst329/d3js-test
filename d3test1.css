@@ -1,0 +1,27 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 38px;
+    color: #204896;
+}
+
+h2 {
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 22px;
+    color: #204896;
+}
+
+.bar {
+    fill: #204896;
+}
+  
+.bar:hover {
+  fill: #4068B2;
+}
+  
+.axis--x path {
+  display: none;
+}
